@@ -8,3 +8,4 @@ __pycache__
 .idea/
 .vscode/
 node_modules/
+eprnext_pk/public/dist/
